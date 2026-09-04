@@ -1,0 +1,9 @@
+.gradle/
+.idea/
+build/
+*/build/
+local.properties
+android-sdk/
+release-keystore.jks
+*.iml
+captures/
